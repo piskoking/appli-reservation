@@ -1,0 +1,69 @@
+.layout-signin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1867ce59;
+}
+
+.form-signin {
+    /* background-color: #fff; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.parent-form-input {
+    margin-bottom: 15px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-form-connection {
+    width: 100%;
+    padding: 10px;
+    background-color: #e93a3a;
+    color: #f1e2e2;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn-form-connection:hover {
+    background-color: #0056b3;
+}
+
+.container-right-signin {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card-title-signup {
+    margin-top: 20px;
+}
+
+.card-title-signup p {
+    margin-bottom: 10px;
+}
+
+.card-title-signup .btn-form-connection {
+    background-color: #28a745;
+}
+
+.card-title-signup .btn-form-connection:hover {
+    background-color: #218838;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}

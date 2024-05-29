@@ -1,0 +1,44 @@
+.home-footer {
+    font-size: 0.9rem;
+  }
+  
+  .home-footer h5 {
+    margin-bottom: 1rem;
+  }
+  
+  .home-footer ul {
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .home-footer ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .home-footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .home-footer ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .home-footer .text-white a {
+    color: #ffffff;
+  }
+  
+  .home-footer .text-white a:hover {
+    text-decoration: none;
+    color: #dddddd;
+  }
+  
+  .home-footer .social-icons a {
+    margin-right: 1rem;
+    color: #ffffff;
+  }
+  
+  .home-footer .social-icons a:hover {
+    color: #cccccc;
+  }
+  
